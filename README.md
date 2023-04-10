@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://4.bp.blogspot.com/-qV7stChpAdM/XILlZq_qiFI/AAAAAAABd0k/9uOTr6isKF4_LlTp8fi_vK2ddaKPFXcsgCKgBGAs/s1600/Omake%2BGif%2BAnime%2B-%2BDate%2BA%2BLive%2BS3%2B-%2BEpisode%2B9%2B-%2BPast%2BKurumi.gif"  />
+  <img height="200" src="https://cdn.discordapp.com/attachments/1091975068206252112/1094978579483344937/Omake_Gif_Anime_-_Date_A_Live_S3_-_Episode_9_-_Past_Kurumi.gif"  />
 </div>
 
 ###
